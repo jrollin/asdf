@@ -1,5 +1,5 @@
 #! /bin/sh
-git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.1
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.5
 
 # The following steps are for bash. If you’re using something else, do the
 # equivalent for your shell.
