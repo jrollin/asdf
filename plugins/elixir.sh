@@ -3,12 +3,13 @@
 # erlang
 asdf plugin-add erlang
 
-asdf install erlang 21.2.6
-asdf global erlang 21.2.6
+# nb : dev package libncurses5-dev may be needed
+asdf install erlang 21.3.8
+asdf global erlang 21.3.8
 
 # elixir
 asdf plugin-add elixir
 
-asdf install elixir 1.8.1-otp-21
-asdf global elixir 1.8.1-otp-21
+asdf install elixir 1.9.4-otp-21
+asdf global elixir 1.9.4-otp-21
 
