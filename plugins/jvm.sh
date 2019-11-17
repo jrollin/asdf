@@ -18,5 +18,5 @@ asdf global maven 3.6.2
 # kotlin
 asdf plugin-add kotlin https://github.com/missingcharacter/asdf-kotlin.git
 
-asdf install kotlin 1.3.30
-asdf global kotlin 1.3.30
+asdf install kotlin 1.3.50
+asdf global kotlin 1.3.50
